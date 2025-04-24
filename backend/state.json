@@ -1,0 +1,37 @@
+{
+    "Maharashtra": {
+        "cities": ["Mumbai", "Pune", "Nagpur"],
+        "in_demand_jobs": ["Electrician", "Nurse"],
+        "excess_jobs": ["Teacher", "Accountant"]
+    },
+    "Karnataka": {
+        "cities": ["Bangalore", "Mysore", "Hubli"],
+        "in_demand_jobs": ["Software Developer", "Plumber"],
+        "excess_jobs": ["Driver", "Data Entry"]
+    },
+    "Tamil Nadu": {
+        "cities": ["Chennai", "Madurai", "Coimbatore"],
+        "in_demand_jobs": ["Mechanic", "Tailor"],
+        "excess_jobs": ["Cashier", "Watchman"]
+    },
+    "Uttar Pradesh": {
+        "cities": ["Lucknow", "Kanpur", "Varanasi"],
+        "in_demand_jobs": ["Farmer", "Construction Worker"],
+        "excess_jobs": ["Security Guard", "Salesman"]
+    },
+    "Punjab": {
+        "cities": ["Amritsar", "Ludhiana", "Jalandhar"],
+        "in_demand_jobs": ["Welder", "Carpenter"],
+        "excess_jobs": ["Teacher", "Electrician"]
+    },
+    "West Bengal": {
+        "cities": ["Kolkata", "Howrah", "Asansol"],
+        "in_demand_jobs": ["Healthcare Assistant", "Cook"],
+        "excess_jobs": ["Mechanic", "Tailor"]
+    },
+    "Rajasthan": {
+        "cities": ["Jaipur", "Jodhpur", "Udaipur"],
+        "in_demand_jobs": ["Construction Worker", "Painter"],
+        "excess_jobs": ["Clerk", "Call Center Agent"]
+    }
+}
