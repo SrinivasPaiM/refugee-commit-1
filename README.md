@@ -14,6 +14,8 @@ to run do npm start
 
 backend
 
+search the venv things (crucial) and add then proceed
+
 pip install flask transformers torch scikit-learn numpy flask-cors
 
 python app.py
